@@ -1,9 +1,11 @@
 [github.com/serviceanimals](https://github.com/serviceanimals/serviceanimals.github.io/)
 [serviceanimals.github.io](https://serviceanimals.github.io/)
 
-   * [https://serviceanimals.github.io/FAQ/](https://serviceanimals.github.io/FAQ/)
-   * [https://serviceanimals.github.io/gait/](https://serviceanimals.github.io/gait/)
-   * [https://serviceanimals.github.io/Ginger/](https://serviceanimals.github.io/Ginger/)
-   * [https://serviceanimals.github.io/Redding/](https://serviceanimals.github.io/Redding/)
+
+   * [Bluing](https://serviceanimals.github.io/FAQ/)
+   * [FAQ](https://serviceanimals.github.io/FAQ/)
+   * [gait](https://serviceanimals.github.io/gait/)
+   * [Ginger](https://serviceanimals.github.io/Ginger/)
+   * [Redding](https://serviceanimals.github.io/Redding/)
 
 <!-- README.md EOF -->
