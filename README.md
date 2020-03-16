@@ -2,7 +2,7 @@
 [serviceanimals.github.io](https://serviceanimals.github.io/)
 
 
-   * [Bluing](https://serviceanimals.github.io/FAQ/)
+   * [Bluing](https://serviceanimals.github.io/Bluing/)
    * [FAQ](https://serviceanimals.github.io/FAQ/)
    * [gait](https://serviceanimals.github.io/gait/)
    * [Ginger](https://serviceanimals.github.io/Ginger/)
