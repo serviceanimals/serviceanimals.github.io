@@ -9,6 +9,7 @@
    * [FAQ](https://serviceanimals.github.io/FAQ/)
    * [gait](https://serviceanimals.github.io/gait/)
    * [Ginger](https://serviceanimals.github.io/Ginger/)
+   * [Harper](https://serviceanimals.github.io/Harper/)
    * [Redding](https://serviceanimals.github.io/Redding/)
 
 <!-- README.md EOF -->
