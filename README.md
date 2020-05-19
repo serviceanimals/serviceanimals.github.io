@@ -1,6 +1,6 @@
 <link rel="prerender" href="https://serviceanimals.github.io/">
 
-[github.com/serviceanimals](https://github.com/serviceanimals/serviceanimals.github.io/)
+[serviceanimals](https://github.com/serviceanimals/serviceanimals.github.io/)
 
 [serviceanimals.github.io](https://serviceanimals.github.io/)
 
