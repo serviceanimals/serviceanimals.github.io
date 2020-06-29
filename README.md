@@ -6,7 +6,7 @@
 
 
    * [Bluing](https://serviceanimals.github.io/Bluing/)
-    * [COVID19](https://serviceanimals.github.io/coronavirus/)
+   * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [FAQ](https://serviceanimals.github.io/FAQ/)
    * [gait](https://serviceanimals.github.io/gait/)
    * [Ginger](https://serviceanimals.github.io/Ginger/)
