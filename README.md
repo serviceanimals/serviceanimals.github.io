@@ -14,9 +14,9 @@
    * [gait](https://serviceanimals.github.io/gait/)
 
 <!--
-   * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [Buster](https://serviceanimals.github.io/Buster/)
    * [Lady](https://serviceanimals.github.io/Lady/)
+   * [Gaia](https://serviceanimals.github.io/Gaia/)
    * [Gustav los veinte quatro](https://serviceanimals.github.io/Gustavlosveintequatro/)
    * [Gustav los veinte cinqo](https://serviceanimals.github.io/Gustavlosveintecinqo/)
    * [Trinket](https://serviceanimals.github.io/Trinket/)
