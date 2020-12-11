@@ -7,10 +7,19 @@
 
    * [Bluing](https://serviceanimals.github.io/Bluing/)
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
+
    * [FAQ](https://serviceanimals.github.io/FAQ/)
-   * [gait](https://serviceanimals.github.io/gait/)
    * [Ginger](https://serviceanimals.github.io/Ginger/)
    * [Harper](https://serviceanimals.github.io/Harper/)
+   * [Nina](https://serviceanimals.github.io/Nina/)
    * [Redding](https://serviceanimals.github.io/Redding/)
+   * [gait](https://serviceanimals.github.io/gait/)
 
-<!-- README.md EOF -->
+<!--
+   * [COVID19](https://serviceanimals.github.io/coronavirus/)
+   * [Buster](https://serviceanimals.github.io/Buster/)
+   * [Lady](https://serviceanimals.github.io/Lady/)
+   * [Gustav los veinte quatro](https://serviceanimals.github.io/Gustavlosveintequatro/)
+   * [Gustav los veinte cinqo](https://serviceanimals.github.io/Gustavlosveintecinqo/)
+   * [Trinket](https://serviceanimals.github.io/Trinket/)
+ README.md EOF -->
