@@ -4,17 +4,14 @@
 
 [serviceanimals.github.io](https://serviceanimals.github.io/)
 
-
    * [Bluing](https://serviceanimals.github.io/Bluing/)
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
-
    * [FAQ](https://serviceanimals.github.io/FAQ/)
    * [Ginger](https://serviceanimals.github.io/Ginger/)
    * [Harper](https://serviceanimals.github.io/Harper/)
    * [Nina](https://serviceanimals.github.io/Nina/)
    * [Redding](https://serviceanimals.github.io/Redding/)
    * [gait](https://serviceanimals.github.io/gait/)
-
 <!--
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [Buster](https://serviceanimals.github.io/Buster/)
