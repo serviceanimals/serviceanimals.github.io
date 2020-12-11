@@ -12,6 +12,7 @@
    * [Nina](https://serviceanimals.github.io/Nina/)
    * [Redding](https://serviceanimals.github.io/Redding/)
    * [gait](https://serviceanimals.github.io/gait/)
+
 <!--
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [Buster](https://serviceanimals.github.io/Buster/)
