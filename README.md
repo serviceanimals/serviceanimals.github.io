@@ -11,6 +11,7 @@
    * [Harper](https://serviceanimals.github.io/Harper/)
    * [Nina](https://serviceanimals.github.io/Nina/)
    * [Redding](https://serviceanimals.github.io/Redding/)
+   * [Smiley](https://serviceanimals.github.io/Smiley/)
    * [gait](https://serviceanimals.github.io/gait/)
 
 <!--
