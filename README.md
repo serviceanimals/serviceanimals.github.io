@@ -1,5 +1,7 @@
 <link rel="prerender" href="https://serviceanimals.github.io/">
 
+What is a service animal? A service animal should have a task that directly helps its handler in any way.
+
 [serviceanimals](https://github.com/serviceanimals/serviceanimals.github.io/)
 
 [serviceanimals.github.io](https://serviceanimals.github.io/)
