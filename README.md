@@ -7,6 +7,7 @@ What is a service animal? A service animal should have a task that directly help
 [serviceanimals.github.io](https://serviceanimals.github.io/)
 
    * [Bluing](https://serviceanimals.github.io/Bluing/)
+   * [Chopper](https://serviceanimals.github.io/Chopper/)
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [FAQ](https://serviceanimals.github.io/FAQ/)
    * [Ginger](https://serviceanimals.github.io/Ginger/)
