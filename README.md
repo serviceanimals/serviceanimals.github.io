@@ -16,6 +16,7 @@ Service dogs:
    * [Nina](https://serviceanimals.github.io/Nina/)
    * [Redding](https://serviceanimals.github.io/Redding/)
    * [Smiley](https://serviceanimals.github.io/Smiley/)
+
 Topics:
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [FAQ](https://serviceanimals.github.io/FAQ/)
