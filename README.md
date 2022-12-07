@@ -20,14 +20,13 @@ Service dogs:
 Topics:
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [FAQ](https://serviceanimals.github.io/FAQ/)
-   * [FQS](https://serviceanimals.github.io/Harper/FQS)
    * [gait](https://serviceanimals.github.io/gait/)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[FQS](FQS.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](LL.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MA](MA.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MQS](MQS.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[FQS](https://serviceanimals.github.io/Harper/FQS.md)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](https://serviceanimals.github.io/Harper/LL.md)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MA](https://serviceanimals.github.io/Harper/MA.md)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MQS](https://serviceanimals.github.io/Harper/MQS.md)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](https://serviceanimals.github.io/Harper/WQS.md)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](https://serviceanimals.github.io/Harper/paychecktime.md)
 
 <!--
    * [Buster](https://serviceanimals.github.io/Buster/)
