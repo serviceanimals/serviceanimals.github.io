@@ -6,6 +6,8 @@ What is a service animal? A service animal should have a task that directly help
 
 [serviceanimals.github.io](https://serviceanimals.github.io/)
 
+I try to use service animals for tasks that can help me be better.  One of their tasks that they are schooled at is water quality specialist.  I discovered the Flint Water Crisis in 2013, about two years before the Flint Water Crisis was officially scrutinized and announced.
+
    * [Bluing](https://serviceanimals.github.io/Bluing/)
    * [Chopper](https://serviceanimals.github.io/Chopper/)
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
@@ -24,4 +26,4 @@ What is a service animal? A service animal should have a task that directly help
    * [Gustav los veinte quatro](https://serviceanimals.github.io/Gustavlosveintequatro/)
    * [Gustav los veinte cinqo](https://serviceanimals.github.io/Gustavlosveintecinqo/)
    * [Trinket](https://serviceanimals.github.io/Trinket/)
- README.md EOF -->
+ README.md EF -->
