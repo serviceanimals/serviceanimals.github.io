@@ -8,7 +8,7 @@ What is a service animal? A service animal should have a task that directly help
 
 I try to use service animals for tasks that can help me be better.  One of their tasks that they are schooled at is water quality specialist.  I discovered the Flint Water Crisis in 2013, about two years before the Flint Water Crisis was officially scrutinized and announced.
 
-Service dogs: 
+Service dogs:
    * [Bluing](https://serviceanimals.github.io/Bluing/)
    * [Chopper](https://serviceanimals.github.io/Chopper/)
    * [Ginger](https://serviceanimals.github.io/Ginger/)
@@ -16,7 +16,7 @@ Service dogs:
    * [Nina](https://serviceanimals.github.io/Nina/)
    * [Redding](https://serviceanimals.github.io/Redding/)
    * [Smiley](https://serviceanimals.github.io/Smiley/)
-Topics: 
+Topics:
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [FAQ](https://serviceanimals.github.io/FAQ/)
    * [gait](https://serviceanimals.github.io/gait/)
