@@ -20,6 +20,7 @@ Service dogs:
 Topics:
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [FAQ](https://serviceanimals.github.io/FAQ/)
+   * [FQS](https://serviceanimals.github.io/Harper/FQS)
    * [gait](https://serviceanimals.github.io/gait/)
 
 <!--
