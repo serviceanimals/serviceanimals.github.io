@@ -21,12 +21,12 @@ Topics:
    * [COVID19](https://serviceanimals.github.io/coronavirus/)
    * [FAQ](https://serviceanimals.github.io/FAQ/)
    * [gait](https://serviceanimals.github.io/gait/)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[FQS](https://serviceanimals.github.io/Harper/FQS.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](https://serviceanimals.github.io/Harper/LL.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MA](https://serviceanimals.github.io/Harper/MA.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MQS](https://serviceanimals.github.io/Harper/MQS.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](https://serviceanimals.github.io/Harper/WQS.md)
-   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](https://serviceanimals.github.io/Harper/paychecktime.md)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[FQS](https://serviceanimals.github.io/Harper/FQS.html)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](https://serviceanimals.github.io/Harper/LL.html)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MA](https://serviceanimals.github.io/Harper/MA.html)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MQS](https://serviceanimals.github.io/Harper/MQS.html)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](https://serviceanimals.github.io/Harper/WQS.html)
+   * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](https://serviceanimals.github.io/Harper/paychecktime.html)
 
 <!--
    * [Buster](https://serviceanimals.github.io/Buster/)
