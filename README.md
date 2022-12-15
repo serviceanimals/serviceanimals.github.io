@@ -20,8 +20,8 @@ Service dogs:
    * [Smiley](https://serviceanimals.github.io/Smiley/)
 
 Topics:
-   * [COVID19](https://serviceanimals.github.io/coronavirus/)
-   * [FAQ](https://serviceanimals.github.io/FAQ/)
+   * [serviceanimals/](https://serviceanimals.github.io/)[COVID19](https://serviceanimals.github.io/coronavirus/)
+   * [serviceanimals/](https://serviceanimals.github.io/)[FAQ](https://serviceanimals.github.io/FAQ/)
    * [serviceanimals/](https://serviceanimals.github.io/)[gait](https://serviceanimals.github.io/gait/)
    * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[FQS](https://serviceanimals.github.io/Harper/FQS.html)
    * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](https://serviceanimals.github.io/Harper/LL.html)
