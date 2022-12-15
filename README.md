@@ -11,13 +11,13 @@ I try to use service animals for tasks that can help me be better.  One of their
 In order to train a service dog as a water quality specialist, many glass bowls with various water types can be used.  A dog should be requested to give its opinion by the handler observing from which glass bowl of water the dog drinks most aptly, if any.  The dog can drink from another source than the ones offered by its handler.
 
 Service dogs:
-   * [Bluing](https://serviceanimals.github.io/Bluing/)
-   * [Chopper](https://serviceanimals.github.io/Chopper/)
-   * [Ginger](https://serviceanimals.github.io/Ginger/)
-   * [Harper](https://serviceanimals.github.io/Harper/)
-   * [Nina](https://serviceanimals.github.io/Nina/)
-   * [Redding](https://serviceanimals.github.io/Redding/)
-   * [Smiley](https://serviceanimals.github.io/Smiley/)
+   * [Service Dog Bluing](https://serviceanimals.github.io/Bluing/)
+   * [Service Dog Chopper](https://serviceanimals.github.io/Chopper/)
+   * [Service Dog Ginger](https://serviceanimals.github.io/Ginger/)
+   * [Service Dog Harper](https://serviceanimals.github.io/Harper/)
+   * [Service Dog Nina](https://serviceanimals.github.io/Nina/)
+   * [Service Dog Redding](https://serviceanimals.github.io/Redding/)
+   * [Service Dog Smiley](https://serviceanimals.github.io/Smiley/)
 
 Topics:
    * [serviceanimals/](https://serviceanimals.github.io/)[COVID19](https://serviceanimals.github.io/coronavirus/)
