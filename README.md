@@ -8,7 +8,7 @@ What is a service animal? A service animal should have a task that directly help
 
 I tried using service animals for tasks that can help me be better.  One of their tasks that they were schooled at was water quality specialists.  I discovered the Flint Water Crisis in 2013, about two years before the Flint Water Crisis was officially scrutinized and announced via service dog Lady and her companion animals.
 
-In order to train a service dog as a water quality specialist, many glass bowls with various water types can be used.  A dog should be requested to give its opinion by the handler observing from which glass bowl of water the dog drinks most aptly, if any.  The dog can drink from another source than the ones offered by its handler.
+In order to train a service dog as a water quality specialist, many glass bowls with various water types can be used.  A dog should be requested to give its opinion by the handler observing from which glass bowl of water the dog drinks most aptly, if any.  Dogs can drink from other sources of water other than the ones offered by their handler.
 
 Service dogs:
    * [Service Dog Bluing](https://serviceanimals.github.io/Bluing/)
