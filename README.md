@@ -38,5 +38,4 @@ Topics:
    * [Trinket](https://serviceanimals.github.io/Trinket/)
    * [Gustav los veinte quatro](https://serviceanimals.github.io/Gustavlosveintequatro/)
    * [Gustav los veinte cinqo](https://serviceanimals.github.io/Gustavlosveintecinqo/)
-   * [Trinket](https://serviceanimals.github.io/Trinket/)
  README.md EF -->
