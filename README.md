@@ -22,8 +22,9 @@ Service dogs:
 Topics:
    * [serviceanimals/](https://serviceanimals.github.io/)[COVID19](https://serviceanimals.github.io/coronavirus/)
    * [serviceanimals/](https://serviceanimals.github.io/)[FAQ](https://serviceanimals.github.io/FAQ/)
-   * [serviceanimals/](https://serviceanimals.github.io/)[gait](https://serviceanimals.github.io/gait/)
    * [serviceanimals/](https://serviceanimals.github.io/)[fowl](https://serviceanimals.github.io/fowl/)
+   * [serviceanimals/](https://serviceanimals.github.io/)[gait](https://serviceanimals.github.io/gait/)
+   * [serviceanimals/](https://serviceanimals.github.io/)[WQS](https://serviceanimals.github.io/WQS/)
    * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[FQS](https://serviceanimals.github.io/Harper/FQS.html)
    * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](https://serviceanimals.github.io/Harper/LL.html)
    * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MA](https://serviceanimals.github.io/Harper/MA.html)
