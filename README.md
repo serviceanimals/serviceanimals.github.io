@@ -32,7 +32,7 @@ Topics:
    * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](https://serviceanimals.github.io/Harper/WQS.html)
    * [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](https://serviceanimals.github.io/Harper/paychecktime.html)
 
-Dog Naming Scheme
+Dog Naming Scheme:
 
 Please use only two syllable names.  Do not use human names.
 
